@@ -1,0 +1,19 @@
+{
+  "festivalId" : "govball2026",
+  "userId" : "bd0283d3c45a42709b2e158b2941d0f0",
+  "totalArtistsMatched" : 11,
+  "userLineupMatchPercentile" : 37,
+  "festivalPersona" : "THE CROWD FAVORITE",
+  "topArtists" : [ {
+    "name" : "JENNIE"
+  }, {
+    "name" : "Dominic Fike"
+  }, {
+    "name" : "Kali Uchis"
+  }, {
+    "name" : "Stray Kids"
+  }, {
+    "name" : "King Princess"
+  } ],
+  "topDiscoveryArtists" : [ ]
+}

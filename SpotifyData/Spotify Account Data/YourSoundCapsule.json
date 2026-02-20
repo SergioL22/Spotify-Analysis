@@ -1,0 +1,398 @@
+{
+  "stats" : [ {
+    "date" : "2026-01-12",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Stone Tower",
+      "streamCount" : 5,
+      "secondsPlayed" : 1414
+    }, {
+      "name" : "Phantom Ganon",
+      "streamCount" : 5,
+      "secondsPlayed" : 1271
+    }, {
+      "name" : "Talk (feat. Disclosure)",
+      "streamCount" : 5,
+      "secondsPlayed" : 1130
+    }, {
+      "name" : "Down",
+      "streamCount" : 5,
+      "secondsPlayed" : 1028
+    }, {
+      "name" : "Clock Town Theme",
+      "streamCount" : 5,
+      "secondsPlayed" : 882
+    }, {
+      "name" : "Song of Storms (from \"Legend of Zelda: Ocarina of Time\")",
+      "streamCount" : 5,
+      "secondsPlayed" : 642
+    }, {
+      "name" : "Fairy Fountain",
+      "streamCount" : 5,
+      "secondsPlayed" : 492
+    }, {
+      "name" : "Epilogue ~ End Credits",
+      "streamCount" : 4,
+      "secondsPlayed" : 1880
+    }, {
+      "name" : "Majora's Mask - Clock Town (Instrumental Remix) (The Legend of Zelda)",
+      "streamCount" : 4,
+      "secondsPlayed" : 1392
+    }, {
+      "name" : "Song of Healing",
+      "streamCount" : 4,
+      "secondsPlayed" : 1197
+    } ],
+    "topArtists" : [ {
+      "name" : "Monsalve",
+      "streamCount" : 78,
+      "secondsPlayed" : 9344
+    }, {
+      "name" : "Koji Kondo",
+      "streamCount" : 70,
+      "secondsPlayed" : 15886
+    }, {
+      "name" : "ROZEN",
+      "streamCount" : 74,
+      "secondsPlayed" : 16459
+    }, {
+      "name" : "The Marcus Hedges Trend Orchestra",
+      "streamCount" : 47,
+      "secondsPlayed" : 5983
+    }, {
+      "name" : "Taylor Davis",
+      "streamCount" : 45,
+      "secondsPlayed" : 8095
+    }, {
+      "name" : "Tate McRae",
+      "streamCount" : 40,
+      "secondsPlayed" : 6921
+    }, {
+      "name" : "daigoro789",
+      "streamCount" : 37,
+      "secondsPlayed" : 5833
+    }, {
+      "name" : "Good Knight Productions",
+      "streamCount" : 27,
+      "secondsPlayed" : 4014
+    }, {
+      "name" : "The Versions",
+      "streamCount" : 24,
+      "secondsPlayed" : 4330
+    }, {
+      "name" : "Ariana Grande",
+      "streamCount" : 20,
+      "secondsPlayed" : 3662
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-01-05",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Rito",
+      "streamCount" : 6,
+      "secondsPlayed" : 1926
+    }, {
+      "name" : "Call Out My Name",
+      "streamCount" : 6,
+      "secondsPlayed" : 1395
+    }, {
+      "name" : "HUMBLE.",
+      "streamCount" : 6,
+      "secondsPlayed" : 1172
+    }, {
+      "name" : "Breath of the Wild",
+      "streamCount" : 6,
+      "secondsPlayed" : 1062
+    }, {
+      "name" : "Tarrey Town (From \"Zelda: Breath of the Wild\") [For Piano Solo]",
+      "streamCount" : 6,
+      "secondsPlayed" : 979
+    }, {
+      "name" : "Title",
+      "streamCount" : 5,
+      "secondsPlayed" : 1381
+    }, {
+      "name" : "Deku Palace",
+      "streamCount" : 5,
+      "secondsPlayed" : 900
+    }, {
+      "name" : "Farore's Wind",
+      "streamCount" : 5,
+      "secondsPlayed" : 820
+    }, {
+      "name" : "Minish Village (From \"The Legend of Zelda: The Minish Cap\")",
+      "streamCount" : 5,
+      "secondsPlayed" : 536
+    }, {
+      "name" : "Mabe Village",
+      "streamCount" : 5,
+      "secondsPlayed" : 515
+    } ],
+    "topArtists" : [ {
+      "name" : "Monsalve",
+      "streamCount" : 96,
+      "secondsPlayed" : 10377
+    }, {
+      "name" : "ROZEN",
+      "streamCount" : 111,
+      "secondsPlayed" : 24842
+    }, {
+      "name" : "Koji Kondo",
+      "streamCount" : 74,
+      "secondsPlayed" : 16091
+    }, {
+      "name" : "daigoro789",
+      "streamCount" : 66,
+      "secondsPlayed" : 9554
+    }, {
+      "name" : "The Marcus Hedges Trend Orchestra",
+      "streamCount" : 53,
+      "secondsPlayed" : 6935
+    }, {
+      "name" : "The Versions",
+      "streamCount" : 40,
+      "secondsPlayed" : 7313
+    }, {
+      "name" : "The Greatest Bits",
+      "streamCount" : 36,
+      "secondsPlayed" : 6384
+    }, {
+      "name" : "Taylor Davis",
+      "streamCount" : 35,
+      "secondsPlayed" : 6122
+    }, {
+      "name" : "The Generous Margins",
+      "streamCount" : 28,
+      "secondsPlayed" : 3297
+    }, {
+      "name" : "Joy Vision",
+      "streamCount" : 28,
+      "secondsPlayed" : 3024
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2025-12-29",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "HUMBLE.",
+      "streamCount" : 9,
+      "secondsPlayed" : 1857
+    }, {
+      "name" : "Don't",
+      "streamCount" : 7,
+      "secondsPlayed" : 1062
+    }, {
+      "name" : "TQG",
+      "streamCount" : 6,
+      "secondsPlayed" : 715
+    }, {
+      "name" : "Call Out My Name",
+      "streamCount" : 5,
+      "secondsPlayed" : 1197
+    }, {
+      "name" : "LOST MY MIND IN PARIS",
+      "streamCount" : 4,
+      "secondsPlayed" : 850
+    }, {
+      "name" : "SHOUT OUT",
+      "streamCount" : 3,
+      "secondsPlayed" : 684
+    }, {
+      "name" : "Harleys In Hawaii",
+      "streamCount" : 3,
+      "secondsPlayed" : 555
+    }, {
+      "name" : "WRONG",
+      "streamCount" : 3,
+      "secondsPlayed" : 531
+    }, {
+      "name" : "A Whole New World",
+      "streamCount" : 3,
+      "secondsPlayed" : 525
+    }, {
+      "name" : "Sports car",
+      "streamCount" : 3,
+      "secondsPlayed" : 505
+    } ],
+    "topArtists" : [ {
+      "name" : "Monsalve",
+      "streamCount" : 33,
+      "secondsPlayed" : 3962
+    }, {
+      "name" : "Taylor Davis",
+      "streamCount" : 26,
+      "secondsPlayed" : 4400
+    }, {
+      "name" : "Tate McRae",
+      "streamCount" : 23,
+      "secondsPlayed" : 3801
+    }, {
+      "name" : "keshi",
+      "streamCount" : 13,
+      "secondsPlayed" : 1899
+    }, {
+      "name" : "BTS",
+      "streamCount" : 12,
+      "secondsPlayed" : 2846
+    }, {
+      "name" : "Koji Kondo",
+      "streamCount" : 11,
+      "secondsPlayed" : 2335
+    }, {
+      "name" : "Kendrick Lamar",
+      "streamCount" : 11,
+      "secondsPlayed" : 2248
+    }, {
+      "name" : "The Weeknd",
+      "streamCount" : 9,
+      "secondsPlayed" : 2421
+    }, {
+      "name" : "Ariana Grande",
+      "streamCount" : 9,
+      "secondsPlayed" : 1979
+    }, {
+      "name" : "Faouzia",
+      "streamCount" : 8,
+      "secondsPlayed" : 1601
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-01-18",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Link And His Loftwing",
+      "secondEntity" : "Feel Something"
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Mother 2",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Taylor Davis", "Monsalve", "Tate McRae", "HUMBLE.", "Call Out My Name", "Don't", "LOST MY MIND IN PARIS", "Zelda II (Title - Battle - Fairy - Palace)", "The Legend of Zelda - Club Mix" ],
+      "milestoneListeningSeconds" : 111888
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Don't",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "need ",
+      "listeningPercentage" : 81.17827934487839
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Ariana Grande",
+      "country" : "US",
+      "secondsPlayed" : 6770,
+      "marketAvgSecondsPlayed" : 916.392
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "UHMEER",
+      "secondEntity" : "Da Tweekaz"
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Please Please Please",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Sabrina Carpenter",
+      "milestoneListeningSeconds" : 130594
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "When Did You Get Hot?",
+      "streamCount" : 42
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Sabrina Carpenter",
+      "listeningPercentage" : 76.96869130145467
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Goodbye",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-10-26",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Sabrina Carpenter",
+      "country" : "US",
+      "secondsPlayed" : 74782,
+      "marketAvgSecondsPlayed" : 1063.4681
+    }
+  }, {
+    "date" : "2025-10-19",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "The Life of a Showgirl (feat. Sabrina Carpenter)",
+      "country" : "US",
+      "position" : 8,
+      "previousPosition" : 10,
+      "numberOfListeners" : 3325901
+    }
+  }, {
+    "date" : "2025-10-12",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Sabrina Carpenter", "岡部啓一", "SQUARE ENIX MUSIC", "Manchild", "Goodbye", "My Man on Willpower", "Go Go Juice", "Don’t Worry I’ll Make You Worry", "Nobody’s Son" ],
+      "milestoneListeningSeconds" : 213888
+    }
+  }, {
+    "date" : "2025-10-05",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Espresso",
+      "streamCount" : 33
+    }
+  }, {
+    "date" : "2025-09-28",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Go Go Juice",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2025-09-21",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Sabrina Carpenter",
+      "milestoneListeningSeconds" : 99076
+    }
+  } ]
+}

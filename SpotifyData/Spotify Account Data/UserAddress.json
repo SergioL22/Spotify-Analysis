@@ -1,0 +1,1 @@
+List(Map(city -> San Juan, street -> 1708 Texas Ave., postal_code_short -> 78589, state -> TX), Map(city -> San Juan, state -> TX, postal_code_extra -> 2587, street -> 1708 Texas Ave., postal_code_short -> 78589), Map(city -> San Juan, postal_code_extra -> 2587, street -> 1708 Texas Ave.), Map(postal_code_short -> 78589, state -> TX))
