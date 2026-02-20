@@ -1,5 +1,3 @@
-# Spotify-Analysis
-
 # Spotify Listening Analysis
 
 A data analysis project exploring my personal Spotify listening history to uncover patterns in music preferences, listening behavior, and how my taste has evolved over time.
