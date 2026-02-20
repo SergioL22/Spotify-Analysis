@@ -49,24 +49,6 @@ Planned additions:
 
 ---
 
-# Project Structure
-
-```
-spotify-analysis/
-│
-├── data/
-│   ├── raw/          # Original Spotify data (not uploaded)
-│   └── processed/    # Cleaned datasets
-│
-├── notebooks/
-│   ├── data_cleaning.ipynb
-│   ├── analysis.ipynb
-│
-├── README.md
-```
-
----
-
 # Key Insights (Work in Progress)
 
 Examples of insights discovered:
