@@ -37,7 +37,6 @@ Note: Raw data is excluded from this repository for privacy.
 * Python
 * Pandas
 * Matplotlib
-* Jupyter Notebook
 * Git & GitHub
 
 Planned additions:
